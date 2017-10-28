@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVC+MVP+MVVM.iml" filepath="$PROJECT_DIR$/MVC+MVP+MVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-github-mvc/app-github-mvc.iml" filepath="$PROJECT_DIR$/app-github-mvc/app-github-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-github-mvp/app-github-mvp.iml" filepath="$PROJECT_DIR$/app-github-mvp/app-github-mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-github-mvvm/app-github-mvvm.iml" filepath="$PROJECT_DIR$/app-github-mvvm/app-github-mvvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-mvp/app-mvp.iml" filepath="$PROJECT_DIR$/app-mvp/app-mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-mvvm/app-mvvm.iml" filepath="$PROJECT_DIR$/app-mvvm/app-mvvm.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':app-mvp', ':app-mvvm', ':app-github-mvc', ':app-github-mvp', ':app-github-mvvm'
